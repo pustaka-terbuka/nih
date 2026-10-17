@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "nih",
+  "agency_code": "NIH",
+  "run_id": "2026-10-17T03-19-56Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:19:56.270Z",
+  "harvester": {
+    "name": "nih-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "aa96e8069fa0912ac8cf1bf5f8d68a8954e6e7aab2b9a1b52c31a5ff23f3dea1"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "2ec72701673eeced246b3a5b62c73d0fc6fe5ce34d1899c023f41c5f17266ef2"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "1c6d3cddc8799e181169562ca5ca7e247582b7bfa71a413b37c51a3d1e4b7a9f"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "b158bea253b96e9a2712f59b16b48d23f6d15236cfb0d61395eb2cee55b7712c"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "76c1af348e94bbe5912b8c44afcf1cb9ca05cd6b4003a35a459126e57171120b"
+    }
+  ]
+}
